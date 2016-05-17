@@ -1,0 +1,45 @@
+LCD   LCM-S01602DSR/A
+
+1 - VSS (Negative)   - GND
+
+2 - VDD  (Positive)  - 5V
+
+3   - vo    - FOR LCD DRIVE
+
+4 - RS  -  RESISTOR SELECT SIGNAL  | H : DATA INPUT   |  L : INSTRUCTION INPUT
+
+5  - H  DATA READ   |   L: DATA WRITE
+
+6 - E - ENABLE
+
+7 - DATA BUS
+
+8 - DATA BUS
+
+9 - DATA BUS
+
+10 - DATA BUS
+
+11 - DATA BUS
+
+12 - DATA BUS
+
+13 - DATA BUS
+
+14 - DATA BUS
+
+15  - A  - ANDODE - LED BACKLIGHT
+
+16  - K   - LED BACK LIGHT
+
+
+1 2 3 4 5 6 7 8 9 10 11 12  13 14 15 16
+
+********************************************************************************
+*                                                                              *
+* SCREEN                                                                       *
+*                                                                              *
+*                                                                              *
+*                                                                              *
+*                                                                              *
+********************************************************************************
